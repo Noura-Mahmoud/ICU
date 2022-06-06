@@ -9,6 +9,7 @@
 |Marwa AbdelAal| 02| 23|
 |Nada Ezzat |02 |38  |
 |Noura Mahmoud |02 |39|
+|Tasneem Gamal |01 |24|
 
 
 ### Connect the two bluetooth modules as a master and a slave using this [link](https://www.youtube.com/watch?v=hyME1osgr7s.md)
